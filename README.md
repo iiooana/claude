@@ -2,5 +2,6 @@
 Tips for using Claude
 
 
-## Settings for Claude's notification with sound
+## Notification with sound
+While you're doing other things, it is useful to receive notifications when Claude finishes or needs to ask you something.
 [Settings](./sounds/)
